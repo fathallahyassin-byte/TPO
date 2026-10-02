@@ -1,0 +1,52 @@
+body
+{
+    font-family: "Lucida Sans", "Segoe UI", sans-serif;
+    background-color: #f5f7fa;
+    color: #333;
+}
+
+.container
+{
+    background-color: #fff;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px 30px;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+h1
+{
+    color: #2a5d8f;
+    border-bottom: 2px solid #2a5d8f;
+    padding-bottom: 10px;
+}
+
+h2
+{
+    color: #2a5d8f;
+    font-size: 22px;
+}
+
+th
+{
+    background-color: #2a5d8f;
+    color: #fff;
+}
+
+.infos
+{
+    color: #777;
+    font-style: italic;
+}
+
+.retour
+{
+    margin-bottom: 10px;
+}
+
+.accueil li
+{
+    font-size: 18px;
+    margin-bottom: 8px;
+}
